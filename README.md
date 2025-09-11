@@ -1,4 +1,4 @@
-# Atividade-1-a-4
+# Desafio pratico Arduino
 Boa noite Fred! Tivemos hoje as seguintes atividades
 1 - Mudar a velocidade do Led, onde foi tranquilo manipular o codigo e mexer no arduino sendo uma atividade legal de se desenvolver
 2 - Criar um padrão(Fazer o LED piscar 3 vezes rápido e depois 1 devagar). Foi um codigo um pouco maior do que o primeiro, mas sendo tranquilo de manipular ele e no arduino continuado praticamente a mesma coisa
